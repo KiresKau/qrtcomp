@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="192.168.10.10" id="2ccc8888-e2b6-4921-b6ff-4ef85b83e0ea" keyPath="D:\ITHillel\Homestead\homestead-8.0.2\homestead-8.0.2\.vagrant\machines\homestead-7\virtualbox\private_key" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="34.89.120.171" id="2ccc8888-e2b6-4921-b6ff-4ef85b83e0ea" keyPath="C:\Users\KiresKau\.ssh\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="kireskau" />
     </configs>
   </component>
 </project>
